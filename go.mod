@@ -7,4 +7,7 @@ require (
 	github.com/pkg/errors v0.9.1
 )
 
-require golang.org/x/net v0.17.0 // indirect
+require (
+	github.com/speps/go-hashids/v2 v2.0.1
+	golang.org/x/net v0.17.0 // indirect
+)
