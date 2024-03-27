@@ -1,4 +1,4 @@
-module going
+module github.com/Houserqu/going
 
 go 1.21.3
 
